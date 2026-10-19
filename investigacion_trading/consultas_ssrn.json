@@ -1,0 +1,11 @@
+{
+  "nota": "Consulta exclusiva a OpenAlex; locations.source.id:S4210172589 corresponde a SSRN Electronic Journal. No accede directamente a SSRN.",
+  "openalex": [
+    "\"futures\" AND (trading OR momentum OR carry OR \"trend following\" OR profitability OR arbitrage)",
+    "\"option trading\" OR \"options trading\" OR \"option returns\" OR \"options returns\"",
+    "\"variance risk premium\" OR \"volatility risk premium\"",
+    "\"covered call\" OR \"put writing\" OR \"iron condor\" OR \"dispersion trading\" OR \"gamma scalping\" OR \"0DTE\"",
+    "\"options on futures\" OR \"futures options\"",
+    "\"day trading\" AND (loss OR losses OR profitability)"
+  ]
+}

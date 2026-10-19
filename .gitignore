@@ -1,0 +1,9 @@
+# Credenciales locales
+.env
+.env.*
+!.env.example
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+# Bloqueos de procesos
+*.lock

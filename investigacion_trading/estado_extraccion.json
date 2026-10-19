@@ -1,0 +1,24 @@
+{
+  "fecha": "2026-10-18",
+  "referencias": 96,
+  "fuentes": {
+    "OpenAlex": 5,
+    "arXiv": 15,
+    "SSRN": 59,
+    "CME": 17
+  },
+  "fichas_resumen": 21,
+  "textos_completos_revisados": 0,
+  "pdfs_descargados": 0,
+  "deduplicacion": "URL normalizada e identificador SSRN; títulos repetidos marcados para revisión, no deduplicación final por estudio",
+  "validacion_local": [
+    "JSON legible",
+    "Identificadores de registro únicos",
+    "URLs de registro únicas",
+    "Sintaxis Python válida",
+    "Prueba de reconstrucción de abstract OpenAlex",
+    "Prueba de identificación y versión arXiv"
+  ],
+  "validacion_red_recolector": "No disponible: fallo DNS del entorno",
+  "cobertura": "No exhaustiva; búsqueda exploratoria web; faltan descarga masiva y lectura completa"
+}

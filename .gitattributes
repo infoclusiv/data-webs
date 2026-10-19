@@ -1,0 +1,2 @@
+investigacion_trading/corpus/** filter=lfs diff=lfs merge=lfs -text
+investigacion_trading/descargas/** filter=lfs diff=lfs merge=lfs -text
